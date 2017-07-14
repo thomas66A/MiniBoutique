@@ -1,0 +1,11 @@
+body {
+  width: 100vw; }
+
+@font-face {
+  font-family: 'hobo';
+  src: url("../../font/HoboStd.otf");
+  font-weight: normal;
+  font-style: normal; }
+
+.clear {
+  clear: both; }
